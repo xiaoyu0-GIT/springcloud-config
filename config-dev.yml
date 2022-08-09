@@ -1,2 +1,9 @@
 config:
-  info: main ------dev -------------05
+  info: main ------dev -------------052
+  
+data:
+  env: dev
+  user:
+    userName: xiaoyu
+    age: 20
+  
